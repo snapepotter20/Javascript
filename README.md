@@ -4,6 +4,6 @@ This is a repository of basic Javascript projects designed by using HTML, Javasc
 <br>
 <br><a href="#"> <img src="https://is.gd/G4bDj5"> </a>
 <br><hr>
-<br>I got to have hands on experience on:
+<br>I got to have hands on:
 <li>Vanilla Javascript.
 
